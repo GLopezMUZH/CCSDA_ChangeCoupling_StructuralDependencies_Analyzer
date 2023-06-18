@@ -78,3 +78,21 @@ The python virtual environment created by poetry can be used to already have all
 The location can be determined with the command `poetry env info`.
 
 The different analytic functions are saved on the notebooks to display different characteristics of the change coupling and structural dependencies based on an *apriori* algorithm to find rules of related changed items.
+
+
+
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![GitHub issues](https://img.shields.io/github/issues/GLopezMUZH/ChangeCoupling_StructuralDependencies_Analyzer)](https://github.com/GLopezMUZH/ChangeCoupling_StructuralDependencies_Analyzer/issues)
+[![GitHub forks](https://img.shields.io/github/forks/GLopezMUZH/ChangeCoupling_StructuralDependencies_Analyzer)](https://github.com/GLopezMUZH/ChangeCoupling_StructuralDependencies_Analyzer/network)
+
+[![](https://sonarcloud.io/api/project_badges/measure?project=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer&metric=alert_status)](https://sonarcloud.io/summary/overall?id=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer)
+[![](https://sonarcloud.io/api/project_badges/measure?project=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer&metric=ncloc)](https://sonarcloud.io/summary/overall?id=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer)
+[![](https://sonarcloud.io/api/project_badges/measure?project=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer&metric=coverage)](https://sonarcloud.io/summary/overall?id=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer)
+[![](https://sonarcloud.io/api/project_badges/measure?project=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer&metric=sqale_index)](https://sonarcloud.io/summary/overall?id=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer)
+[![](https://sonarcloud.io/api/project_badges/measure?project=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer&metric=reliability_rating)](https://sonarcloud.io/summary/overall?id=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer)
+[![](https://sonarcloud.io/api/project_badges/measure?project=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer&metric=duplicated_lines_density)](https://sonarcloud.io/summary/overall?id=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer)
+[![](https://sonarcloud.io/api/project_badges/measure?project=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer&metric=vulnerabilities)](https://sonarcloud.io/summary/overall?id=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer)
+[![](https://sonarcloud.io/api/project_badges/measure?project=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer&metric=bugs)](https://sonarcloud.io/summary/overall?id=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer)
+[![](https://sonarcloud.io/api/project_badges/measure?project=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer&metric=security_rating)](https://sonarcloud.io/summary/overall?id=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer)
+[![](https://sonarcloud.io/api/project_badges/measure?project=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer&metric=sqale_rating)](https://sonarcloud.io/summary/overall?id=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer)
+[![](https://sonarcloud.io/api/project_badges/measure?project=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer&metric=code_smells)](https://sonarcloud.io/summary/overall?id=GLopezMUZH_ChangeCoupling_StructuralDependencies_Analyzer)
